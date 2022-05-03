@@ -15,7 +15,7 @@ console.log(dadosCliente4);
 
 // rendonly array
 const array1: readonly string[] = ['Tawan Silva'];
-const array2: readonly Array<string> = ['Tawan Silva'];
+const array2: Array<string> = ['Tawan Silva'];
 
 console.log(array1);
 console.log(array2);

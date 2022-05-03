@@ -30,4 +30,4 @@ const pessoaObj: TipoPessoa2 = {
 };
 
 const pessoa = new Pessoa('Tawan', 'Silva');
-console.log(pessoa.nomeCompleto);
+console.log(pessoa.nomeCompleto());
